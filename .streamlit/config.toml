@@ -1,0 +1,15 @@
+[global]
+showWarningOnDirectExecution = true
+
+
+[server]
+headless = true
+enableXsrfProtection=false
+enableCORS = false
+port = 80
+
+
+[browser]
+serverAddress = "0.0.0.0"
+serverPort = 80
+gatherUsageStats = false
