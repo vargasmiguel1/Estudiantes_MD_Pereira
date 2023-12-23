@@ -4,7 +4,7 @@ import streamlit as st
 
 from pygwalker.api.streamlit import StreamlitRenderer, init_streamlit_comm
 
-st.set_page_config(layout="wide", page_title="🔎_Explorador")
+st.set_page_config(layout="wide", page_title="Maria Dolorosa")
 
 hide_st_style = """
             <style>
