@@ -6,6 +6,7 @@ showWarningOnDirectExecution = true
 headless = true
 enableXsrfProtection=false
 enableCORS = false
+enableWebsocketCompression=false
 port = 80
 
 
